@@ -1,0 +1,20 @@
+{
+	"style" : "default",
+	"config" : "save_卧虎藏龙.dat",
+	"width" : 540,
+	"height" : 960,
+	"cancelscroll" : true,
+	"countdown" : 10,
+	"cancelname" : "取消",
+	"okname" : "确定",
+	"views" : [
+		{
+		  "align" : "left",
+		  "color" : "0,0,0",
+		  "size" : "80",
+		  "text" : "hello world",
+		  "bg" : "225,225,225",
+		  "type" : "Label"
+		}
+	]
+}
